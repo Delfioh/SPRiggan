@@ -1,0 +1,4 @@
+C:\Users\delfiandra\documents\visual studio 2010\Projects\SPRiggan\SPRiggan\bin\Debug\SPRiggan.exe
+C:\Users\delfiandra\documents\visual studio 2010\Projects\SPRiggan\SPRiggan\bin\Debug\SPRiggan.pdb
+C:\Users\delfiandra\documents\visual studio 2010\Projects\SPRiggan\SPRiggan\obj\x86\Debug\SPRiggan.exe
+C:\Users\delfiandra\documents\visual studio 2010\Projects\SPRiggan\SPRiggan\obj\x86\Debug\SPRiggan.pdb
